@@ -1,4 +1,5 @@
 # git-conflits
+LOCAL
 Ce repo 
 a été créer 
 dans le but 
