@@ -1,4 +1,5 @@
 # git-conflits
+REMOTE
 Ce repo 
 a été créer 
 dans le but 
